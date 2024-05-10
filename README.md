@@ -5,6 +5,7 @@
 - PHP >= 8.2
 - Composer >= 2.x
 - Node.js == 16.0.0 for npm run dev | >=16 may cause error
+- (it's best to run 'npm install' to install dependencies with version 18 and then run 'npm run dev' with version 16)
 - Npm/Yarn
 
 ## Local Development Installation
