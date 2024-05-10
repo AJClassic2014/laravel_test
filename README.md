@@ -1,4 +1,4 @@
-# Promo Brands Distributors Multisite Website 
+#  Test App Instructions
 
 ## Server Requirements
 
