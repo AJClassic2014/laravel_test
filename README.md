@@ -5,7 +5,7 @@
 - PHP >= 8.2
 - Composer >= 2.x
 - Node.js == 16.0.0 for npm run dev | >=16 may cause error
-- Yarn
+- Npm/Yarn
 
 ## Local Development Installation
 
