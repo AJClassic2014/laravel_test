@@ -1,4 +1,5 @@
 #  Test App Instructions
+- A product list equipped with filtering by product name and sorting by product name,price and rating
 
 ## Server Requirements
 
